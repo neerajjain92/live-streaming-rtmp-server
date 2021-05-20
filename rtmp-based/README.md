@@ -11,5 +11,5 @@ Live Streaming Server using [nginx-rtmp-module](https://github.com/arut/nginx-rt
 1. Install Docker
 2. docker-compose build
 3. docker-compose up
-4. Open settings in OBS and set the server to `rtmp://localhost:1935/live` and the stream key to `neeraj?key=supersecret`
-5. Now you can watch your RTMP feed wherever you like by pointing to following URL `rtmp://localhost:1935/live/neeraj`
+4. Open settings in OBS and set the server to `rtmp://localhost:1935/live` and the stream key to `test?key=supersecret`
+5. Now you can watch your RTMP feed wherever you like by pointing to following URL `rtmp://localhost:1935/live/test`
