@@ -4,7 +4,7 @@ Live Streaming Server using [nginx-rtmp-module](https://github.com/arut/nginx-rt
 
 ### Prerequisite
 1. Download [OBS](https://obsproject.com/) A open-source cross-platform streaming and recording program
-2. Download Docker
+2. Download [Docker](https://www.docker.com/)
 
 ### How to Run
 ---
